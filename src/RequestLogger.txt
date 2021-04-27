@@ -1,0 +1,10 @@
+Wed Feb 24 2021 POST /
+Wed Feb 24 2021 POST /login
+Wed Feb 24 2021 POST /login
+Wed Feb 24 2021 POST /login
+Wed Feb 24 2021 POST /myTransactions/login
+Wed Feb 24 2021 GET /myTransactions/login
+Wed Feb 24 2021 GET /myTransactions/alex@gmail.com
+Wed Feb 24 2021 GET /myTransactions/alex@gmail.com/
+Wed Feb 24 2021 GET /myTransactions/alex@gmail.com//
+Wed Feb 24 2021 GET /myTransactions/alex@gmail.com/
